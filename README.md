@@ -1,11 +1,13 @@
 # QA_LNK
 ## Cloning Repo
+<pre>
 - Clone repositori
 `git clone https://github.com/niamxmain/QA_LNK.git`
 - install npm
 `npm install`
 - jalankan pengujian
 `npx cypress run` or `npx cypress open`
+</pre>
 
 ## Overview
 Ini adalah sebuah project automation testing yang saya buat untuk menyelesaikan tugas teknikal tes
