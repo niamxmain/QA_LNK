@@ -1,12 +1,4 @@
 # QA_LNK
-## Cloning Repo
-
-- Clone repositori
-'git clone https://github.com/niamxmain/QA_LNK.git'
-- install npm
-'npm install'
-- jalankan pengujian
-'npx cypress run' or 'npx cypress open'
 
 
 ## Overview
